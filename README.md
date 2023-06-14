@@ -10,9 +10,9 @@
 4. Запустите файл "pdd.exe" из папки "pdd_test".
 
 # Демонстрация
-![ПДД Тест_page-0001](https://github.com/kolyaklimk/pdd-test/assets/93304825/769568fe-0442-4f61-852c-2953dfa43768)
-![ПДД Тест_page-0003](https://github.com/kolyaklimk/pdd-test/assets/93304825/0ff2c77b-6485-46b3-bacd-5f3765c37a1f)
-![ПДД Тест_page-0004](https://github.com/kolyaklimk/pdd-test/assets/93304825/467798ee-ddb5-4e50-b1d9-2a2475de0bf8)
-![ПДД Тест_page-0005](https://github.com/kolyaklimk/pdd-test/assets/93304825/b1fa0887-12f0-49ba-b945-07aa36b64133)
-![ПДД Тест_page-0006](https://github.com/kolyaklimk/pdd-test/assets/93304825/6ba31e15-4ef8-4097-8917-765cd8257dd1)
-![ПДД Тест_page-0007](https://github.com/kolyaklimk/pdd-test/assets/93304825/dcef3183-54e7-4c22-be75-e186e33a95fa)
+![ПДД Тест_page-0001](https://github.com/kolyaklimk/pdd-test/assets/93304825/4a29fceb-42c3-4b83-805b-527fed51baa6)
+![ПДД Тест_page-0003](https://github.com/kolyaklimk/pdd-test/assets/93304825/32aeb0de-2475-46cf-a663-a4b820dc406f)
+![ПДД Тест_page-0004](https://github.com/kolyaklimk/pdd-test/assets/93304825/0472e9dc-46a0-4cfb-94bf-cec3bfa19562)
+![ПДД Тест_page-0005](https://github.com/kolyaklimk/pdd-test/assets/93304825/5d0b337c-768f-4cb9-9425-9f7ac7b5de16)
+![ПДД Тест_page-0006](https://github.com/kolyaklimk/pdd-test/assets/93304825/40286f6e-2554-4956-bc8f-38843e128579)
+![ПДД Тест_page-0007](https://github.com/kolyaklimk/pdd-test/assets/93304825/9f227ede-1c34-48f2-9bf6-6ef0038ae331)
